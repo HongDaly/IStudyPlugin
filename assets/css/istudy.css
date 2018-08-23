@@ -1,0 +1,38 @@
+  #categoryimage_remove_button {
+    display: none;
+  }
+  
+  .wpcustom-category-image-item {
+    max-width: 150px;
+  }
+  
+  .wpcustom-category-form-field .options {
+    padding-bottom: 5px;
+  }
+  
+  .column-image img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .cat-image{
+    width: 100%;
+    height: 200px;
+  }
+
+  .cat-title{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    font-weight: bold;
+  }
+  .cat-card{
+    margin-bottom: 10px;
+  }
+
+  /* front-end */
+  #istudy-title{
+    padding: 5px;
+    background-color: #0057A4;
+  }

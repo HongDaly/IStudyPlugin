@@ -1,0 +1,19 @@
+{
+    "name": "daly/istudy-plugin",
+    "description": "Best plugin for customize courses",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Hong Daly",
+            "email": "hong.daly@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    }
+}
